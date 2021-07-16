@@ -3,6 +3,7 @@ I am Morningstar. I am a PhD student at Institute of Information Engineering (II
 My primary research interests are Multi-modal Machine Learning and my current research focuses on Vision-and-Language.
 
 ## 🌱 I’m currently learning
+(✨: Tasks; :star2:: Research Areas)
 * Visual Question Answering（VQA, 视觉问答）✨
 * Referring Expression（Ref, 指代表达）✨
 * Pre-training Model（预训练模型）:star2:
@@ -10,12 +11,14 @@ My primary research interests are Multi-modal Machine Learning and my current re
 * Disentangling Representations（特征解耦）:star2:
 * Self-Supervised Learning（自监督学习）:star2:
 * Natural Language Processing（NLP，自然语言处理）:star2:
-  (✨: Tasks; :star2:: Research Areas)
 
 ## 🔭 I’m currently working on ...
+* [Blog](https://github.com/MorningStarOvO/MorningStarOvO.github.io) I'm going to create a personal blog
 
 ## 📫 How to reach me: ...
-* Email：a1228136188@163.com
+* Email: a1228136188@163.com
+* 知乎: [MorningStar](https://www.zhihu.com/people/ha-ha-ha-ha-ha-58-78)
+* CSDN: [晨旭OvO](https://blog.csdn.net/a1228136188)
 
 <!--
 **MorningStarOvO/MorningStarOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
