@@ -29,6 +29,8 @@
 
 * CSDN: [晨旭OvO](https://blog.csdn.net/a1228136188)
 
+* Blog: <https://morningstarovo.github.io/>
+
 ## ⚡ Fun fact:
 
 <img style="display:block; margin: 0 0 0 30px" src="https://github-readme-stats.vercel.app/api?username=MorningStarOvO&show_icons=true&icon_color=79ff97&text_color=fff&bg_color=39393a&hide_title=false&title_color=fff&disable_animations=true&hide_border=true">
