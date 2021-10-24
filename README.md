@@ -3,6 +3,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;My primary research interests are **Multi-modal Machine Learning** and my current research focuses on **Vision-and-Language**.
 
+    ![](https://img.shields.io/github/followers/MorningStarOvO?style=social)
+    ![](https://img.shields.io/github/stars/MorningStarOvO?style=social)
+
 ## 🌱 I’m currently learning
 (✨: Tasks; :star2:: Research Areas)
 * Visual Question Answering（VQA, 视觉问答）✨
