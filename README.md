@@ -8,22 +8,16 @@
 
 ## 🌱 I’m currently learning
 (✨: Tasks; :star2:: Research Areas)
-* Visual Question Answering（VQA, 视觉问答）✨
+* Self-Supervised Learning（自监督学习）🌟
 
-* Referring Expression（Ref, 指代表达）✨
+* OOD Generalization（域外分布泛化）🌟
 
-* Pre-training Model（预训练模型）:star2:
+* Domain Generation（领域泛化）🌟
 
-* Explainable Machine Learning（可解释性机器学习）:star2:
-
-* Disentangling Representations（特征解耦）:star2:
-
-* Self-Supervised Learning（自监督学习）:star2:
-
-* Natural Language Processing（NLP，自然语言处理）:star2:
+* Scene Recognition（场景识别）✨
 
 ## 🔭 I’m currently working on ...
-* [Blog](https://github.com/MorningStarOvO/MorningStarOvO.github.io) I'm going to create a personal blog
+* I'm working on improving the generalizability of a scene recognition model! 🌱
 
 ## 📫 How to reach me: ...
 * Email: a1228136188@163.com
