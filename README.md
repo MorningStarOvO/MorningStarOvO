@@ -10,7 +10,7 @@
 (✨: Tasks; :star2:: Research Areas)
 * Self-Supervised Learning（自监督学习）🌟
 
-* OOD Generalization（域外分布泛化）🌟
+* OOD Generalization（分布外泛化）🌟
 
 * Domain Generation（领域泛化）🌟
 
