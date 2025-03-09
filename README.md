@@ -1,5 +1,5 @@
 ## Hi there 👋, I am MorningStarOvO !
-&nbsp;&nbsp;&nbsp;&nbsp;I am Morningstar. I am a **PhD student** at Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS).
+&nbsp;&nbsp;&nbsp;&nbsp;I am a **PhD student** at the Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS).
 
 &nbsp;&nbsp;&nbsp;&nbsp;My primary research interests are **document-based Zero-Shot Learning** and **Few-Shot Learning**.
 
@@ -13,9 +13,9 @@
 
 
 ## 🔭 I’m currently working on ...
-* I'm working on enhancing Vision-Language Models (VLMs) by LLM-generated descriptions! 🌱
+* I'm working on enhancing Vision-Language Models (VLMs) with LLM-generated descriptions! 🌱
 
-* I also aim to research on Document-based Zero-Shot Learning, i.e., using generated descriptions instead of annotated attributes as auxiliary information.
+* I also aim to research Document-based Zero-Shot Learning, i.e., using generated descriptions instead of annotated attributes as auxiliary information.
 
 ## 📫 How to reach me: ...
 * Email: quxiangyan@iie.ac.cn
