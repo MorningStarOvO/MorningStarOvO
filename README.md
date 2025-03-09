@@ -1,30 +1,26 @@
 ## Hi there 👋, I am MorningStarOvO !
 &nbsp;&nbsp;&nbsp;&nbsp;I am Morningstar. I am a **PhD student** at Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS).
 
-&nbsp;&nbsp;&nbsp;&nbsp;My primary research interests are **Multi-modal Machine Learning** and my current research focuses on **Vision-and-Language**.
+&nbsp;&nbsp;&nbsp;&nbsp;My primary research interests are **document-based Zero-Shot Learning** and **Few-Shot Learning**.
 
 ![](https://img.shields.io/github/followers/MorningStarOvO?style=social)
 ![](https://img.shields.io/github/stars/MorningStarOvO?style=social)
 
 ## 🌱 I’m currently learning
-(✨: Tasks; :star2:: Research Areas)
-* Self-Supervised Learning（自监督学习）🌟
+* Zero-Shot Learning（零样本学习）🌟
 
-* OOD Generalization（分布外泛化）🌟
+* Few-Shot Learning（少样本学习）🌟
 
-* Domain Generation（领域泛化）🌟
-
-* Scene Recognition（场景识别）✨
 
 ## 🔭 I’m currently working on ...
-* I'm working on improving the generalizability of a scene recognition model! 🌱
+* I'm working on enhancing Vision-Language Models (VLMs) by LLM-generated descriptions! 🌱
+
+* I also aim to research on Document-based Zero-Shot Learning, i.e., using generated descriptions instead of annotated attributes as auxiliary information.
 
 ## 📫 How to reach me: ...
-* Email: a1228136188@163.com
+* Email: quxiangyan@iie.ac.cn
 
 * 知乎: [MorningStar](https://www.zhihu.com/people/ha-ha-ha-ha-ha-58-78)
-
-* CSDN: [晨旭OvO](https://blog.csdn.net/a1228136188)
 
 * Blog: <https://morningstarovo.github.io/>
 
