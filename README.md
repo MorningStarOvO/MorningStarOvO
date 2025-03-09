@@ -16,9 +16,9 @@
 * **cross-modal retrieval**（跨模态检索）
 
 ## 🔭 I’m currently working on ...
-* I'm working on enhancing Vision-Language Models (VLMs) with LLM-generated descriptions! 🌱
+* I'm working on enhancing vision-language models (VLMs) with LLM-generated descriptions! 🌱
 
-* I also aim to research Document-based Zero-Shot Learning, i.e., using generated descriptions instead of annotated attributes as auxiliary information.
+* I also aim to research description-based zero-shot learning, i.e., using generated descriptions instead of annotated attributes as auxiliary information.
 
 ## 📫 How to reach me: ...
 * Email: quxiangyan@iie.ac.cn
