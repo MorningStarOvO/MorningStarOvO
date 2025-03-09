@@ -6,7 +6,9 @@
 ![](https://img.shields.io/github/followers/MorningStarOvO?style=social)
 ![](https://img.shields.io/github/stars/MorningStarOvO?style=social)
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently interested...
+* Multi-Modal Machine Learning（多模态机器学习）🌟
+
 * Zero-Shot Learning（零样本学习）🌟
 
 * Few-Shot Learning（少样本学习）🌟
