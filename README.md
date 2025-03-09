@@ -9,6 +9,8 @@
 ## 🌱 I’m currently interested...
 * Multi-Modal Machine Learning（多模态机器学习）🌟
 
+* Cross-Modal Semantic Alignment（跨模态语义对齐）🌟
+
 * Zero-Shot Learning（零样本学习）🌟
 
 * Few-Shot Learning（少样本学习）🌟
