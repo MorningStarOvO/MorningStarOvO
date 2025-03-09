@@ -1,19 +1,10 @@
 ## Hi there 👋, I am MorningStarOvO !
 &nbsp;&nbsp;&nbsp;&nbsp;I am a **PhD student** at the Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS).
 
-&nbsp;&nbsp;&nbsp;&nbsp;My primary research interests are **document-based Zero-Shot Learning** and **Few-Shot Learning**.
+&nbsp;&nbsp;&nbsp;&nbsp;My primary research interests are **<span style="color:purple">multi-modal machine learning</span>**（多模态机器学习） and **<span style="color:purple">cross-modal semantic alignment</span>**（跨模态语义对齐）, and my current research focuses on **<span style="color:purple">description-based zero- / few-shot learning</span>**（基于文本描述的零/少样本学习） and **<span style="color:purple">cross-modal retrieval</span>**（跨模态检索）.
 
 ![](https://img.shields.io/github/followers/MorningStarOvO?style=social)
 ![](https://img.shields.io/github/stars/MorningStarOvO?style=social)
-
-## 🌱 I’m currently interested...
-* Multi-Modal Machine Learning（多模态机器学习）🌟
-
-* Cross-Modal Semantic Alignment（跨模态语义对齐）🌟
-
-* Zero-Shot Learning（零样本学习）🌟
-
-* Few-Shot Learning（少样本学习）🌟
 
 
 ## 🔭 I’m currently working on ...
